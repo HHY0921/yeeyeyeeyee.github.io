@@ -6,8 +6,13 @@ div.hi{
     border-width: 5px;
     border-width: 21px;
     border-color: white;
+    
 }
 
 p.sss{
 	font-size: 50px;
+}
+body {
+    padding-top: 200px;
+
 }
